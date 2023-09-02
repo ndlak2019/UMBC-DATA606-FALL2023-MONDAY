@@ -6,7 +6,9 @@
 - **Master of Science in Data Science**: University of Maryland Baltimore County, May 2023
 
 ## Work Experience
-- **Student Trainee (Administrative Support)**: Food and Drug Administraion,Dec/2022-Current
+- **Student Trainee (Administrative Support)**:
+- Food and Drug Administraion,Dec/2022-Current:
+  
 Performs administrative, technical, analytical, and clerical support and assistance.
 Assembles data, consolidates and prepares reports.
 Gathers and analyzes requested information for a variety of projects and maintains the status of those projects.
@@ -14,7 +16,9 @@ Provides information to others and follows up to assure completion.
 Performs other work of a general clerical and administrative nature.
 Responds to inquiries concerning projects and activities.
 
-- **FOIA analyst**: Food and Drug Administraion,Jan/2023-Current
+- **FOIA analyst**:
+- Food and Drug Administraion,Jan/2023-Current:
+  
 Providing FOIA services to address an approximate volume of at least 55,000 pages every 30 days and at least 500,000 in total.
 Drafting FOIA-related correspondence.
 Coordinating searches for responsive documents.
@@ -25,7 +29,9 @@ Preparing records for release, including the redaction of materials to be withhe
 -Communication and Reporting, Keeping division management informed of the nature of all sensitive requests
 Providing weekly progress reports
 
-- **Administrative Support II**: Food and Drug Administraion,3/2019 - 9/2022
+- **Administrative Support II**:
+- Food and Drug Administraion,3/2019 - 9/2022:
+  
 Answer user inquiries regarding computer software or hardware operation to resolve problems.
 Assist in various office administrative tasks utilizing Office 365.
 Imaging documents for data entry.
