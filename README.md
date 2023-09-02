@@ -17,7 +17,7 @@ Performs other work of a general clerical and administrative nature.
 Responds to inquiries concerning projects and activities.
 
 - **FOIA analyst**:
-- Food and Drug Administraion,Jan/2023-Current:
+- Food and Drug Administraion,Sept/2022-Dec/2022:
   
 Providing FOIA services to address an approximate volume of at least 55,000 pages every 30 days and at least 500,000 in total.
 Drafting FOIA-related correspondence.
@@ -30,7 +30,7 @@ Preparing records for release, including the redaction of materials to be withhe
 Providing weekly progress reports
 
 - **Administrative Support II**:
-- Food and Drug Administraion,3/2019 - 9/2022:
+- Food and Drug Administraion,March/2019 - Sept/2022:
   
 Answer user inquiries regarding computer software or hardware operation to resolve problems.
 Assist in various office administrative tasks utilizing Office 365.
