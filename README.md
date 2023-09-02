@@ -1,6 +1,6 @@
 # UMBC-DATA606-FALL2023-MONDAY
 # Sunjung Kim
-![Your Headshot]([path_to_headshot_image_in_repository](https://github.com/ndlak2019/UMBC-DATA606-FALL2023-MONDAY/blob/main/IMG_4999.jpg))
+![Your Headshot](https://github.com/ndlak2019/UMBC-DATA606-FALL2023-MONDAY/raw/main/IMG_4999.jpg)
 ## Education
 - **Bachelor of Science in Health Science; Biology**: University of Southern Maine, 2018
 - **Master of Science in Data Science**: University of Maryland Baltimore County, May 2023
