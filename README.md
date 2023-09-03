@@ -60,4 +60,4 @@ Maintain good working relationships with all cooperative worker.
 
 ## Contact Information
 - Email: Sunjung1207@gmail.com
-- GitHub: [GitHub Profile](https://github.com/ndlak2019
+- GitHub: https://github.com/ndlak2019
