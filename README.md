@@ -1,6 +1,6 @@
 # UMBC-DATA606-FALL2023-MONDAY
-# Sunjung Kim  <img src="https://github.com/ndlak2019/UMBC-DATA606-FALL2023-MONDAY/blob/main/IMG_4999%20(1).jpg" width="130" height="150">
 ### Location:Hanover, MD, Contact Information:sunjung1207@gmail.com
+# Sunjung Kim  <img src="https://github.com/ndlak2019/UMBC-DATA606-FALL2023-MONDAY/blob/main/IMG_4999%20(1).jpg" width="130" height="150">
 
 ## General Skills: 
 Data Visualization, Quality Management, Customer Service, Data Entry, Attention to deails, Data Preparation 
