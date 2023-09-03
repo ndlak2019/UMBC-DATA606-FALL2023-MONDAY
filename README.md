@@ -1,6 +1,6 @@
 # UMBC-DATA606-FALL2023-MONDAY
-(<img src="https://github.com/ndlak2019/UMBC-DATA606-FALL2023-MONDAY/blob/main/IMG_4999%20(1).jpg" width="70" height="80">
-# Sunjung Kim
+# Sunjung Kim <img src="https://github.com/ndlak2019/UMBC-DATA606-FALL2023-MONDAY/blob/main/IMG_4999%20(1).jpg" width="70" height="80">
+
 ## General Skills: 
 Data Visualization, Quality Management, Customer Service, Data Entry, Attention to deails, Data Preparation 
 
