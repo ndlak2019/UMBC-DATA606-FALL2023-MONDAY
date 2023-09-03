@@ -1,7 +1,21 @@
 # UMBC-DATA606-FALL2023-MONDAY
-# Sunjung Kim
 ![Your Headshot](https://github.com/ndlak2019/UMBC-DATA606-FALL2023-MONDAY/blob/main/IMG_4999%20(1).jpg)
-## Education
+# Sunjung Kim
+## General Skills: 
+Data Visualization, Quality Management, Customer Service, Data Entry, Attention to deails, Data Preparation 
+
+## Techinical Skills:
+Operating System: 
+Windows, MacOS, Linux
+Programming Language:
+Python, SQL, Hadoop
+Other Tools:
+Tableaus, AWS Service, Micrsoft Azure, Power Apps, Power BI
+
+## Interests/Hobbies:
+Artificial Intelligence, Travel, Hiking, Snowboarding
+
+## Education:
 - **Bachelor of Science in Health Science; Biology**: University of Southern Maine, 2018
 - **Master of Science in Data Science**: University of Maryland Baltimore County, May 2023
 
